@@ -5,7 +5,7 @@
 4,11/03/2020,Medellín,Antioquia,casa,50 a 59,M,Relacionado,Colombia
 5,11/03/2020,Medellín,Antioquia,recuperado,20 a 29,M,Relacionado,Colombia
 6,11/03/2020,Itagüí,Antioquia,casa,20 a 29,F,Relacionado,Colombia
-7,11/03/2020,Cartagena,Bolívar,recuperado,80 a 89,F,Importado,Estados Unidos
+7,11/03/2020,Cartagena,Cartagena,recuperado,80 a 89,F,Importado,Estados Unidos
 8,11/03/2020,Bogotá,Bogotá,casa,20 a 29,F,Importado,España
 9,11/03/2020,Bogotá,Bogotá,casa,20 a 29,F,Importado,España - Italia
 10,12/03/2020,Bogotá,Bogotá,casa,30 a 39,F,Importado,España
@@ -24,8 +24,8 @@
 23,14/03/2020,Bogotá,Bogotá,casa,20 a 29,M,Relacionado,Colombia
 24,14/03/2020,Bogotá,Bogotá,casa,10 a 19,F,Importado,España
 25,15/03/2020,Cali,Valle,casa,40 a 49,M,Importado,España
-26,15/03/2020,Cartagena,Bolívar,casa,30 a 39,F,Relacionado,Colombia
-27,15/03/2020,Cartagena,Bolívar,casa,30 a 39,F,Relacionado,Colombia
+26,15/03/2020,Cartagena,Cartagena,casa,30 a 39,F,Relacionado,Colombia
+27,15/03/2020,Cartagena,Cartagena,casa,30 a 39,F,Relacionado,Colombia
 28,15/03/2020,Dosquebradas,Risaralda,casa,20 a 29,M,Importado,Estados Unidos
 29,15/03/2020,Neiva,Huila,casa,50 a 59,F,Relacionado,Colombia
 30,15/03/2020,Cúcuta,Norte de Santander,casa,40 a 49,F,Importado,España
@@ -56,10 +56,10 @@
 55,16/03/2020,Bogotá,Bogotá,casa,50 a 59,F,Relacionado,Colombia
 56,16/03/2020,Bogotá,Bogotá,casa,30 a 39,M,Importado,España
 57,16/03/2020,Bogotá,Bogotá,hospital,30 a 39,M,Relacionado,Colombia
-58,17/03/2020,Cartagena,Bolívar,casa,20 a 29,M,Relacionado,Colombia
-59,17/03/2020,Barranquilla,Atlántico,casa,20 a 29,M,Importado,España
+58,17/03/2020,Cartagena,Cartagena,casa,20 a 29,M,Relacionado,Colombia
+59,17/03/2020,Barranquilla,Barranquilla,casa,20 a 29,M,Importado,España
 60,17/03/2020,Bucaramanga,Santander,casa,20 a 29,M,Importado,España
-61,17/03/2020,Barranquilla,Atlántico,casa,20 a 29,M,Importado,España
+61,17/03/2020,Barranquilla,Barranquilla,casa,20 a 29,M,Importado,España
 62,17/03/2020,Cali,Valle,casa,30 a 39,M,Importado,Italia
 63,17/03/2020,Cali,Valle,casa,20 a 29,F,Importado,Francia
 64,17/03/2020,Bogotá,Bogotá,casa,30 a 39,M,Importado,España
@@ -71,7 +71,7 @@
 70,17/03/2020,Bogotá,Bogotá,casa,30 a 39,F,Importado,Turquía - Grecia
 71,17/03/2020,Cúcuta,Norte de Santander,casa,50 a 59,M,Relacionado,Colombia
 72,17/03/2020,Cúcuta,Norte de Santander,casa,20 a 29,F,Relacionado,Colombia
-73,17/03/2020,Cartagena,Bolívar,casa,50 a 59,F,Relacionado,Colombia
+73,17/03/2020,Cartagena,Cartagena,casa,50 a 59,F,Relacionado,Colombia
 74,17/03/2020,Bogotá,Bogotá,casa,10 a 19,M,Relacionado,Colombia
 75,17/03/2020,Bogotá,Bogotá,casa,40 a 49,F,Relacionado,Colombia
 76,18/03/2020,Armenia,Quindío,casa,40 a 49,F,Importado,Italia
@@ -95,14 +95,14 @@
 94,18/03/2020,Bogotá,Bogotá,casa,50 a 59,M,Importado,Estados Unidos
 95,18/03/2020,Bogotá,Bogotá,hospital,60 a 69,M,Importado,Turquía
 96,18/03/2020,Bogotá,Bogotá,casa,30 a 39,F,Importado,Estados Unidos
-97,18/03/2020,Cartagena,Bolívar,casa,20 a 29,M,Importado,Estados Unidos
-98,18/03/2020,Cartagena,Bolívar,casa,20 a 29,M,Importado,España
+97,18/03/2020,Cartagena,Cartagena,casa,20 a 29,M,Importado,Estados Unidos
+98,18/03/2020,Cartagena,Cartagena,casa,20 a 29,M,Importado,España
 99,18/03/2020,Ibagué,Tolima,casa,10 a 19,M,Relacionado,Colombia
 100,18/03/2020,Pereira,Risaralda,casa,20 a 29,M,Importado,España
 101,18/03/2020,Dosquebradas,Risaralda,casa,10 a 19,M,Importado,España
 102,18/03/2020,Pereira,Risaralda,casa,70 a 79,M,Importado,España
-103,19/03/2020,Cartagena,Bolívar,casa,20 a 29,F,Importado,España
-104,19/03/2020,Barranquilla,Atlántico,casa,40 a 49,F,Importado,España
+103,19/03/2020,Cartagena,Cartagena,casa,20 a 29,F,Importado,España
+104,19/03/2020,Barranquilla,Barranquilla,casa,40 a 49,F,Importado,España
 105,19/03/2020,Palmira,Valle,casa,20 a 29,F,Importado,España
 106,19/03/2020,Medellín,Antioquia,casa,40 a 49,M,Importado,España
 107,19/03/2020,Medellín,Antioquia,casa,50 a 59,M,Importado,España
@@ -123,9 +123,9 @@
 122,19/03/2020,Popayán,Cauca,casa,30 a 39,F,Importado,España
 123,19/03/2020,Viterbo,Caldas,casa,30 a 39,F,Importado,España
 124,19/03/2020,Neiva,Huila,casa,70 a 79,F,Relacionado,Colombia
-125,19/03/2020,Cartagena,Bolívar,casa,40 a 49,M,Importado,España
-126,19/03/2020,Barranquilla,Atlántico,casa,50 a 59,F,Importado,Estados Unidos
-127,19/03/2020,Barranquilla,Atlántico,casa,30 a 39,F,Relacionado,Colombia
+125,19/03/2020,Cartagena,Cartagena,casa,40 a 49,M,Importado,España
+126,19/03/2020,Barranquilla,Barranquilla,casa,50 a 59,F,Importado,Estados Unidos
+127,19/03/2020,Barranquilla,Barranquilla,casa,30 a 39,F,Relacionado,Colombia
 128,19/03/2020,Soacha,Cundinamarca,casa,50 a 59,M,Relacionado,Colombia
 129,20/03/2020,Pereira,Risaralda,casa,20 a 29,F,Importado,España
 130,20/03/2020,Anapoima,Cundinamarca,casa,50 a 59,M,Importado,Estados Unidos
@@ -153,9 +153,9 @@
 152,20/03/2020,Bogotá,Bogotá,casa,60 a 69,M,Importado,Estados Unidos
 153,20/03/2020,Bogotá,Bogotá,casa,50 a 59,F,Relacionado,Colombia
 154,20/03/2020,Bogotá,Bogotá,casa,40 a 49,M,Importado,Jamaica - Panamá - Islas Caimán
-155,20/03/2020,Santa Marta,Magdalena,casa,20 a 29,M,Importado,España
+155,20/03/2020,Santa Marta,Santa Marta,casa,20 a 29,M,Importado,España
 156,20/03/2020,Chía,Cundinamarca,casa,20 a 29,F,Importado,España
-157,20/03/2020,Santa Marta,Magdalena,fallecido,80 a 89,M,En estudio,Colombia
+157,20/03/2020,Santa Marta,Santa Marta,fallecido,80 a 89,M,En estudio,Colombia
 158,20/03/2020,Madrid,Cundinamarca,casa,30 a 39,M,Relacionado,Colombia
 159,20/03/2020,Bogotá,Bogotá,casa,30 a 39,M,Importado,Estados Unidos
 160,20/03/2020,Bogotá,Bogotá,casa,40 a 49,F,Importado,Estados Unidos
@@ -175,9 +175,9 @@
 174,20/03/2020,Bogotá,Bogotá,casa,70 a 79,M,Importado,México
 175,20/03/2020,Bogotá,Bogotá,casa,20 a 29,F,Importado,España
 176,21/03/2020,Ibagué,Tolima,casa,20 a 29,F,Importado,Estados Unidos
-177,21/03/2020,Cartagena,Bolívar,casa,20 a 29,M,Relacionado,Colombia
-178,21/03/2020,Cartagena,Bolívar,casa,20 a 29,M,Importado,Estados Unidos
-179,21/03/2020,Cartagena,Bolívar,casa,40 a 49,F,Relacionado,Colombia
+177,21/03/2020,Cartagena,Cartagena,casa,20 a 29,M,Relacionado,Colombia
+178,21/03/2020,Cartagena,Cartagena,casa,20 a 29,M,Importado,Estados Unidos
+179,21/03/2020,Cartagena,Cartagena,casa,40 a 49,F,Relacionado,Colombia
 180,21/03/2020,Villa del Rosario,Norte de Santander,casa,20 a 29,M,Importado,España
 181,21/03/2020,Manizales,Caldas,casa,20 a 29,F,Importado,Estados Unidos
 182,21/03/2020,Cúcuta,Norte de Santander,casa,40 a 49,F,Relacionado,Colombia
@@ -195,14 +195,14 @@
 194,21/03/2020,Palmira,Valle,casa,60 a 69,F,Importado,España
 195,21/03/2020,Pereira,Risaralda,casa,60 a 69,F,Importado,Estados Unidos
 196,21/03/2020,Neiva,Huila,casa,50 a 59,F,Importado,España
-197,21/03/2020,Cartagena,Bolívar,fallecido,50 a 59,M,Relacionado,Colombia
+197,21/03/2020,Cartagena,Cartagena,fallecido,50 a 59,M,Relacionado,Colombia
 198,21/03/2020,Medellín,Antioquia,casa,30 a 39,M,Importado,España
 199,21/03/2020,Guarne,Antioquia,casa,20 a 29,M,Importado,Estados Unidos
-200,21/03/2020,Cartagena,Bolívar,casa,50 a 59,F,Relacionado,Colombia
+200,21/03/2020,Cartagena,Cartagena,casa,50 a 59,F,Relacionado,Colombia
 201,21/03/2020,Chía,Cundinamarca,casa,50 a 59,F,Importado,España
 202,21/03/2020,Itaguí,Antioquia,hospital,50 a 59,M,En estudio,Colombia
-203,21/03/2020,Barranquilla,Atlántico,casa,20 a 29,F,Importado,Estados Unidos
-204,21/03/2020,Barranquilla,Atlántico,casa,30 a 39,M,Importado,Estados Unidos
+203,21/03/2020,Barranquilla,Barranquilla,casa,20 a 29,F,Importado,Estados Unidos
+204,21/03/2020,Barranquilla,Barranquilla,casa,30 a 39,M,Importado,Estados Unidos
 205,21/03/2020,Bogotá,Bogotá,casa,20 a 29,M,Relacionado,Colombia
 206,21/03/2020,Bogotá,Bogotá,casa,60 a 69,F,Importado,España
 207,21/03/2020,Bogotá,Bogotá,casa,40 a 49,M,Importado,Guatemala
@@ -264,11 +264,11 @@
 263,23/03/2020,Medellín,Antioquia,casa,50 a 59,M,Importado,España
 264,23/03/2020,Envigado,Antioquia,casa,30 a 39,F,Importado,España
 265,23/03/2020,Cajicá,Cundinamarca,casa,50 a 59,M,Importado,Ecuador
-266,23/03/2020,Cartagena,Bolívar,hospital,80 a 89,F,En estudio,Colombia
+266,23/03/2020,Cartagena,Cartagena,hospital,80 a 89,F,En estudio,Colombia
 267,23/03/2020,Medellín,Antioquia,casa,20 a 29,M,Importado,Estados Unidos
 268,23/03/2020,Medellín,Antioquia,casa,30 a 39,F,Importado,España
 269,23/03/2020,Chía,Cundinamarca,casa,50 a 59,M,Relacionado,Colombia
-270,23/03/2020,Cartagena,Bolívar,casa,50 a 59,F,En estudio,Colombia
+270,23/03/2020,Cartagena,Cartagena,casa,50 a 59,F,En estudio,Colombia
 271,23/03/2020,Medellín,Antioquia,casa,20 a 29,F,Importado,España
 272,23/03/2020,Medellín,Antioquia,casa,40 a 49,F,Importado,España
 273,23/03/2020,Medellín,Antioquia,hospital,80 a 89,M,Importado,Panamá
@@ -337,7 +337,7 @@
 336,24/03/2020,Cartagena,Cartagena,casa,20 a 29,M,Relacionado,Colombia
 337,24/03/2020,Cali,Valle,casa,20 a 29,M,En estudio,Colombia
 338,24/03/2020,La Unión,Valle,casa,50 a 59,F,Importado,Reino Unido
-339,24/03/2020,Cali,Valle,casa,40 a 49,F,Relacionado,Colombia
+339,24/03/2020,Cartago,Valle,casa,40 a 49,F,Importado,España
 340,24/03/2020,Cartagena,Cartagena,casa,30 a 39,M,En estudio,Colombia
 341,24/03/2020,Neiva,Huila,casa,60 a 69,M,En estudio,Colombia
 342,24/03/2020,Cali,Valle,casa,40 a 49,F,Relacionado,Colombia
@@ -352,7 +352,7 @@
 351,24/03/2020,Sopó,Cundinamarca,casa,50 a 59,M,En estudio,Colombia
 352,24/03/2020,Villeta,Cundinamarca,casa,30 a 39,M,Importado,España
 353,24/03/2020,Palermo,Huila,casa,40 a 49,M,Importado,Ecuador
-354,24/03/2020,Buga,Valle,casa,20 a 29,F,Relacionado,Colombia
+354,24/03/2020,San Pedro,Valle,casa,20 a 29,F,Relacionado,Colombia
 355,24/03/2020,Villeta,Cundinamarca,casa,40 a 49,F,Importado,España
 356,24/03/2020,Anapoima,Cundinamarca,casa,30 a 39,M,Importado,España
 357,24/03/2020,Cali,Valle,casa,40 a 49,M,Relacionado,Colombia
