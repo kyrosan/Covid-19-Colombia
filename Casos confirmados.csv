@@ -2175,7 +2175,7 @@
 2174,09/04/2020,Dosquebradas,Risaralda,Casa,50-59,F,Importado,España,,,56
 2175,09/04/2020,Pereira,Risaralda,Casa,50-59,F,Relacionado,Colombia,,,59
 2176,09/04/2020,Dosquebradas,Risaralda,Hospital,50-59,M,En estudio,Colombia,,,53
-2177,09/04/2020,San Andrés,San Andrés,Casa,40-49,M,En estudio,Colombia,,,49
+2177,09/04/2020,San Andrés,San Andrés Islas,Casa,40-49,M,En estudio,Colombia,,,49
 2178,09/04/2020,,Cundinamarca,Casa,40-49,M,En estudio,Colombia,,,42
 2179,09/04/2020,Piedecuesta,Santander,Casa,30-39,F,En estudio,Colombia,,,39
 2180,09/04/2020,Cimitarra,Santander,Casa,20-29,F,En estudio,Colombia,,,26
@@ -2222,28 +2222,28 @@
 2221,09/04/2020,Yopal,Casanare,Casa,40-49,F,En estudio,Colombia,,,43
 2222,09/04/2020,Espinal,Tolima,Casa,40-49,M,En estudio,Colombia,,,44
 2223,09/04/2020,Ipiales,Nariño,Hospital,40-49,M,En estudio,Colombia,,,42
-2224,10/04/2020,Barranquilla,Barranquilla D.E.,Casa,50-59,M,Importado,Estados Unidos,,,50
+2224,10/04/2020,Barranquilla,Atlántico,Casa,50-59,M,Importado,Estados Unidos,,,50
 2225,10/04/2020,Medellin,Antioquia,Casa,20-29,F,Relacionado,Colombia,,,22
 2226,10/04/2020,Envigado,Antioquia,Casa,20-29,F,Relacionado,Colombia,,,29
 2227,10/04/2020,Cali,Valle del Cauca,Casa,20-29,F,Importado,Francia,,,21
 2228,10/04/2020,Cali,Valle del Cauca,Hospital,30-39,F,En estudio,Colombia,,,30
 2229,10/04/2020,Cali,Valle del Cauca,Hospital,30-39,M,Importado,Mexico,,,33
-2230,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,40-49,F,Relacionado,Colombia,,,44
-2231,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,60-69,M,Relacionado,Colombia,,,60
-2232,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,60-69,F,En estudio,Colombia,,,65
-2233,10/04/2020,Cartagena,Cartagena D.T. y C,Hospital,40-49,M,En estudio,Colombia,,,48
-2234,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,40-49,F,Relacionado,Colombia,,,43
-2235,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,10-19,M,Relacionado,Colombia,,,13
-2236,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,10-19,M,Relacionado,Colombia,,,11
-2237,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,40-49,M,Relacionado,Colombia,,,41
-2238,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,0-9,F,Relacionado,Colombia,,,8
+2230,10/04/2020,Cartagena,Bolívar,Casa,40-49,F,Relacionado,Colombia,,,44
+2231,10/04/2020,Cartagena,Bolívar,Casa,60-69,M,Relacionado,Colombia,,,60
+2232,10/04/2020,Cartagena,Bolívar,Casa,60-69,F,En estudio,Colombia,,,65
+2233,10/04/2020,Cartagena,Bolívar,Hospital,40-49,M,En estudio,Colombia,,,48
+2234,10/04/2020,Cartagena,Bolívar,Casa,40-49,F,Relacionado,Colombia,,,43
+2235,10/04/2020,Cartagena,Bolívar,Casa,10-19,M,Relacionado,Colombia,,,13
+2236,10/04/2020,Cartagena,Bolívar,Casa,10-19,M,Relacionado,Colombia,,,11
+2237,10/04/2020,Cartagena,Bolívar,Casa,40-49,M,Relacionado,Colombia,,,41
+2238,10/04/2020,Cartagena,Bolívar,Casa,0-9,F,Relacionado,Colombia,,,8
 2239,10/04/2020,Guatape,Antioquia,Casa,30-39,F,Relacionado,Colombia,,,39
 2240,10/04/2020,Medellin,Antioquia,Casa,60-69,M,Relacionado,Colombia,,,62
 2241,10/04/2020,Medellin,Antioquia,Hospital,50-59,M,Relacionado,Colombia,,,56
 2242,10/04/2020,Medellin,Antioquia,Hospital,60-69,F,Relacionado,Colombia,,,62
 2243,10/04/2020,Puerto Colombia,Atlántico,Casa,60-69,F,En estudio,Colombia,,,68
-2244,10/04/2020,Barranquilla,Barranquilla D.E.,Casa,10-19,M,Relacionado,0,,,14
-2245,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Hospital,40-49,M,Relacionado,Colombia,,,48
+2244,10/04/2020,Barranquilla,Atlántico,Casa,10-19,M,Relacionado,0,,,14
+2245,10/04/2020,Santa Marta,Magdalena,Hospital,40-49,M,Relacionado,Colombia,,,48
 2246,10/04/2020,Palmira,Valle del Cauca,Casa,30-39,F,Relacionado,Colombia,,,39
 2247,10/04/2020,Cali,Valle del Cauca,Casa,50-59,F,Importado,Estados Unidos De América,,,58
 2248,10/04/2020,Medellin,Antioquia,Hospital,40-49,M,En estudio,Colombia,,,48
@@ -2347,21 +2347,21 @@
 2346,10/04/2020,Cali,Valle del Cauca,Hospital UCI,70-79,M,En estudio,Colombia,,,76
 2347,10/04/2020,Cali,Valle del Cauca,Casa,30-39,F,Relacionado,Colombia,,,30
 2348,10/04/2020,Nilo,Cundinamarca,Casa,20-29,M,Importado,Estados Unidos,,,24
-2349,10/04/2020,Barranquilla,Barranquilla D.E.,Casa,20-29,F,Relacionado,Colombia,,,25
-2350,10/04/2020,Barranquilla,Barranquilla D.E.,Casa,30-39,M,Relacionado,Colombia,,,32
-2351,10/04/2020,Barranquilla,Barranquilla D.E.,Casa,50-59,F,Relacionado,Colombia,,,56
-2352,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,30-39,F,En estudio,Colombia,,,36
-2353,10/04/2020,Cartagena,Cartagena D.T. y C,Hospital,60-69,M,En estudio,Colombia,,,66
-2354,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,0-9,F,Relacionado,0,,,1
-2355,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,30-39,F,En estudio,Colombia,,,38
-2356,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,50-59,M,En estudio,Colombia,,,56
-2357,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,30-39,M,En estudio,Venezuela,,,31
-2358,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,50-59,F,En estudio,0,,,56
-2359,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,40-49,F,En estudio,Colombia,,,45
-2360,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,30-39,F,En estudio,Colombia,,,30
-2361,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,30-39,F,En estudio,Colombia,,,31
-2362,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,30-39,F,Importado,Estados Unidos,,,36
-2363,10/04/2020,Cartagena,Cartagena D.T. y C,Casa,40-49,F,En estudio,Colombia,,,40
+2349,10/04/2020,Barranquilla,Atlántico,Casa,20-29,F,Relacionado,Colombia,,,25
+2350,10/04/2020,Barranquilla,Atlántico,Casa,30-39,M,Relacionado,Colombia,,,32
+2351,10/04/2020,Barranquilla,Atlántico,Casa,50-59,F,Relacionado,Colombia,,,56
+2352,10/04/2020,Cartagena,Bolívar,Casa,30-39,F,En estudio,Colombia,,,36
+2353,10/04/2020,Cartagena,Bolívar,Hospital,60-69,M,En estudio,Colombia,,,66
+2354,10/04/2020,Cartagena,Bolívar,Casa,0-9,F,Relacionado,0,,,1
+2355,10/04/2020,Cartagena,Bolívar,Casa,30-39,F,En estudio,Colombia,,,38
+2356,10/04/2020,Cartagena,Bolívar,Casa,50-59,M,En estudio,Colombia,,,56
+2357,10/04/2020,Cartagena,Bolívar,Casa,30-39,M,En estudio,Venezuela,,,31
+2358,10/04/2020,Cartagena,Bolívar,Casa,50-59,F,En estudio,0,,,56
+2359,10/04/2020,Cartagena,Bolívar,Casa,40-49,F,En estudio,Colombia,,,45
+2360,10/04/2020,Cartagena,Bolívar,Casa,30-39,F,En estudio,Colombia,,,30
+2361,10/04/2020,Cartagena,Bolívar,Casa,30-39,F,En estudio,Colombia,,,31
+2362,10/04/2020,Cartagena,Bolívar,Casa,30-39,F,Importado,Estados Unidos,,,36
+2363,10/04/2020,Cartagena,Bolívar,Casa,40-49,F,En estudio,Colombia,,,40
 2364,10/04/2020,Tunja,Boyacá,Casa,30-39,M,En estudio,Colombia,,,34
 2365,10/04/2020,Socha,Boyacá,Hospital,30-39,F,En estudio,Colombia,,,36
 2366,10/04/2020,Tunja,Boyacá,Casa,20-29,F,En estudio,Colombia,,,24
@@ -2379,17 +2379,17 @@
 2378,10/04/2020,Ipiales,Nariño,Casa,30-39,F,En estudio,Colombia,,,38
 2379,10/04/2020,Ipiales,Nariño,Hospital,70-79,M,En estudio,Colombia,,,72
 2380,10/04/2020,Espinal,Tolima,Hospital UCI,50-59,M,En estudio,Colombia,,,57
-2381,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Casa,30-39,M,En estudio,Colombia,,,34
-2382,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Casa,20-29,M,En estudio,Colombia,,,28
-2383,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Casa,60-69,M,En estudio,Colombia,,,63
-2384,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Casa,40-49,F,En estudio,Colombia,,,42
-2385,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Hospital,50-59,M,En estudio,Colombia,,,59
-2386,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Hospital,70-79,M,En estudio,Colombia,,,73
+2381,10/04/2020,Santa Marta,Magdalena,Casa,30-39,M,En estudio,Colombia,,,34
+2382,10/04/2020,Santa Marta,Magdalena,Casa,20-29,M,En estudio,Colombia,,,28
+2383,10/04/2020,Santa Marta,Magdalena,Casa,60-69,M,En estudio,Colombia,,,63
+2384,10/04/2020,Santa Marta,Magdalena,Casa,40-49,F,En estudio,Colombia,,,42
+2385,10/04/2020,Santa Marta,Magdalena,Hospital,50-59,M,En estudio,Colombia,,,59
+2386,10/04/2020,Santa Marta,Magdalena,Hospital,70-79,M,En estudio,Colombia,,,73
 2387,10/04/2020,Cienaga,Magdalena,Casa,40-49,M,Relacionado,Colombia,,,41
 2388,10/04/2020,Cienaga,Magdalena,Casa,50-59,M,Relacionado,Colombia,,,58
-2389,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Hospital,70-79,M,En estudio,Colombia,,,76
-2390,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Casa,40-49,F,En estudio,Colombia,,,40
-2391,10/04/2020,Santa Marta,Santa Marta D.T. y C.,Casa,40-49,M,En estudio,Colombia,,,41
+2389,10/04/2020,Santa Marta,Magdalena,Hospital,70-79,M,En estudio,Colombia,,,76
+2390,10/04/2020,Santa Marta,Magdalena,Casa,40-49,F,En estudio,Colombia,,,40
+2391,10/04/2020,Santa Marta,Magdalena,Casa,40-49,M,En estudio,Colombia,,,41
 2392,10/04/2020,Villavicencio,Meta,Fallecido,60-69,M,En estudio,Colombia,79,10/04/2020,62
 2393,10/04/2020,Ipiales,Nariño,Casa,20-29,M,En estudio,Ecuador,,,26
 2394,10/04/2020,Cucuta,Norte de Santander,Casa,50-59,F,Importado,Turquía,,,59
