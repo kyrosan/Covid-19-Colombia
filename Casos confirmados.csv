@@ -1,4 +1,4 @@
-﻿ID de caso,Fecha de diagnóstico,Ciudad de ubicación,Departamento,Atención,Edad,Sexo,Tipo,País de procedencia,Contador fallecidos,Fecha de muerte,Edad,,
+﻿ID de caso,Fecha de diagnóstico,Ciudad de ubicación,Departamento,Atención,Edad,Sexo,Tipo*,País de procedencia,Contador fallecidos,Fecha de muerte,Edad,,
 1,06/03/2020,Bogotá,Bogotá D.C.,Recuperado,10-19,F,Importado,Italia,,,19,,
 2,09/03/2020,Buga,Valle del Cauca,Recuperado,30-39,M,Importado,España,,,34,,
 3,09/03/2020,Medellín,Antioquia,Recuperado,50-59,F,Importado,España,,,50,,
